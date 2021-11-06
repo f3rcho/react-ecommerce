@@ -13,7 +13,7 @@ const RecoveryPassword = () => {
         </p>
 
         <div className="email-image">
-          <img src="./icons/email.svg" alt="email" />
+          <img src="../icons/email.svg" alt="email" />
         </div>
 
         <button className="primary-button login-button">Login</button>
