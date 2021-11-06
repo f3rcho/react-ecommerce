@@ -88,3 +88,13 @@ module.exports = {
   ],
 };
 ```
+
+## Adding styles
+
+### Adding Sass
+
+```bash
+$ npm install mini-css-extract-plugin css-loader style-loader sass sass-loader -D
+```
+
+- Add to webpack the new pluging

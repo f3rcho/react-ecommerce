@@ -4,7 +4,7 @@
   "description": "react ecommerce",
   "main": "src/index.js",
   "scripts": {
-    "start": "webpack serve --mode development --open",
+    "start": "webpack serve --open",
     "build": "webpack --mode production"
   },
   "keywords": [
@@ -25,5 +25,12 @@
     "webpack": "^5.62.1",
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.4.0"
+  },
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "mini-css-extract-plugin": "^2.4.4",
+    "sass": "^1.43.4",
+    "sass-loader": "^12.3.0",
+    "style-loader": "^3.3.1"
   }
 }
