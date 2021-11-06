@@ -33,7 +33,7 @@ $ npm install @babel/core @babel/preset-env @babel/preset-react
 - Add Html plugins
 
 ```bash
-$ npm install babel-loader html-loader html-webpck-plugin
+$ npm install babel-loader html-loader html-webpack-plugin
 ```
 
 ### Set babel and webpack configuration
