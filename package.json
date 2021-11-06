@@ -1,0 +1,19 @@
+{
+  "name": "react-commerce",
+  "version": "1.0.0",
+  "description": "react ecommerce",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Fernando Cordero <ing.fc2015@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
