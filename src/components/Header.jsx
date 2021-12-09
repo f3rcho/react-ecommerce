@@ -14,6 +14,7 @@ const Header = () => {
   const { state } = useContext(AppContext);
 
   const handleToggle = () => {
+    console.log(!toggle, 'click');
     setToggle(!toggle);
   };
 
